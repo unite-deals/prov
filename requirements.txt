@@ -1,3 +1,10 @@
 streamlit==1.16.0
 SpeechRecognition
 textblob
+websockets
+asyncio
+base64
+json
+pyaudio
+os
+pathlib
